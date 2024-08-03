@@ -1,5 +1,5 @@
 # About Me
-Hi there, I'm Lee. <br>I actually have nothing to write beyond that, so I hope you enjoy your stay here.
+Hi there! <br>I'm highly passioned in Robotics and ML, which makes me skilled in building Electronics & Programming. Hope you enjoy your stay here :)
 
 
 ## I used these:

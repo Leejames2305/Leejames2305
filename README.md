@@ -1,5 +1,5 @@
-# About Me
-Hi there! <br>I'm currently an undergraduate that is highly passioned in Robotics and ML, as well as building Electronics & Programming.
+# About
+Exploring and Building stuff ... 
 
 ## I used these:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
